@@ -1,16 +1,6 @@
 # Drishti: Parking Enforcement Intelligence for Bengaluru
 
-
-**🔗 Live demo: https://drishti-dwrcuzu9ioojibgegjphgj.streamlit.app/ **
-
-
-
-
-
-
-
-
-
+**🔗 Live demo: https://drishti-dwrcuzu9ioojibgegjphgj.streamlit.app/**
 
 **Gridlock Hackathon 2.0 · Theme 1: Poor Visibility on Parking-Induced Congestion**
 
