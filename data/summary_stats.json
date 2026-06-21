@@ -1,0 +1,16 @@
+{
+  "total_violations": 248376,
+  "date_start": "2023-11-10",
+  "date_end": "2024-04-08",
+  "days_covered": 151,
+  "avg_per_day": 1645,
+  "unique_locations": 177708,
+  "named_junctions": 125023,
+  "no_junction_share": 49.7,
+  "peak_hour_ist": 10,
+  "peak_hour_label": "10:00\u201311:00 IST",
+  "busiest_day": "Sunday",
+  "top_violation": "WRONG PARKING",
+  "top50_hotspot_share": 33.6,
+  "police_stations": 54
+}
